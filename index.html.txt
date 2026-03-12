@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentação do Projeto</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { margin-top: 30px; color: #444; }
+        section { margin-bottom: 20px; }
+        code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+
+    <h1>Documentação do Projeto</h1>
+
+    <section>
+        <h2>1. Criação do Repositório</h2>
+        <p>
+            Este repositório foi criado inicialmente para centralizar o desenvolvimento do projeto.  O  Objetivo e razão do projeto será  a criação de um site em HTML estático focado na chamada 'alfabetização digital', focada no ensino do uso básico de sistemas e em acessibilidade.
+        </p>
+    </section>
+
+    <section>
+        <h2>2. Escolha das Licenças</h2>
+        <p>
+            A escolha da licença para este projeto baseou-se na necessidade de equilíbrio entre liberdade e proteção:
+        </p>
+        <ul>
+            <li>
+                <strong>Razão da escolha:</strong> Optamos por uma licença que permite o uso e modificação do código, 
+                garantindo que a colaboração seja aberta, mas mantendo os créditos aos autores originais.
+            </li>
+            <li>
+                <strong>Transparência:</strong> A definição clara da licença desde o início evita conflitos jurídicos futuros 
+                e estabelece as regras de uso para a comunidade.
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>3. Status Atual</h2>
+        <p>
+            Esta página serve como um <em>placeholder</em> provisório enquanto a estrutura principal 
+            do sistema está sendo desenvolvida e migrada para este novo endereço.
+        </p>
+    </section>
+
+<footer>
+    <hr>
+    <p>
+        <small>Última atualização: Março de 2026</small><br>
+        <small>Distribuído sob a licença <strong>BSD 2-Clause "Simplified"</strong>.</small>
+    </p>
+</footer>
+
+</body>
+</html>
